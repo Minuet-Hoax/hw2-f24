@@ -2,8 +2,7 @@ body {
     font-family: Arial, Verdana;
     background-color: #000000;
     color: #ffffff;
-    margin: 20px;
-    margin-bottom: 0;
+    margin: 20px 20px 0 20px;
 }
 
 h1 {
@@ -19,7 +18,7 @@ h2 {
 
 p {
     font-size: 24px;
-    padding: 10px 0 0 15px;
+    padding: 10px 0 0 10px;
 }
 
 img {
@@ -82,8 +81,7 @@ div {
 }
 
 footer {
-    background: linear-gradient(#000000, #0000FF 25%, #0066FF 70%, #000000);
-    border: 5px solid #ffffff;
+    background: linear-gradient(to right, #000000, #0000FF 25%, #0066FF 70%, #000000);
     border: 5px solid #ffffff;
 }
 
